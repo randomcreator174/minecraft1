@@ -10,9 +10,7 @@
 <br>
 <img id="image"src= "https://i.pinimg.com/736x/72/a5/2f/72a52f0318708b97da22eb39f2bead46.jpg"width="800px"><hr><hr>
 <h1>Crafting recipies</h1>
-<p>Crafting table</p>
-
-<img src="https://i.pinimg.com/564x/71/94/d9/7194d96159775db97890a9600b1ac316.jpg" width="200px">
+<p>Crafting table</p><img src="https://i.pinimg.com/564x/71/94/d9/7194d96159775db97890a9600b1ac316.jpg" width="200px">
 <p>4 wood planks</p>
 <hr>
 <hr>
